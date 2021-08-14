@@ -43,6 +43,7 @@ def printMenu():
     print("1- Cargar Libros")
     print("2- Cargar Tags")
     # TODO: Modificaciones para el laboratorio 1.
+    print("3- Cargar Libros y Tags")
     print("0- Salir")
 
 
